@@ -2,7 +2,7 @@
 # Copyright (C) Igor Sysoev
 # Copyright (C) Nginx, Inc.
 
-
+m
 if [ $USE_PERL != NO ]; then
 
     cat << END                                                >> $NGX_MAKEFILE
